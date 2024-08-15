@@ -1,6 +1,7 @@
-import { Input } from '@/components/ui/input'
-import { Search, SearchIcon } from 'lucide-react'
-import React from 'react'
+import { Input } from '@/components/ui/input';
+import { Search, SearchIcon } from 'lucide-react';
+import React from 'react';
+import { Button } from '@/components/ui/button';
 
 const Hero = () => {
   return (
